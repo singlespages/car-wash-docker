@@ -14,4 +14,5 @@ services:
     container_name: carwash-com 
     restart: always 
     ports: 
-      - 5391:8091 
+      - 5391:80
+      
