@@ -8,7 +8,7 @@ version: '3.1'
  
 services: 
 
-  cuack-com: 
+  carwash-com:  
     build: 
       context: ./FRONT 
     container_name: carwash-com 
